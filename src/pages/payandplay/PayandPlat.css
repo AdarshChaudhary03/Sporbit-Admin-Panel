@@ -1,0 +1,20 @@
+.showDetails {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form {
+  margin: 30px 0px;
+}
+
+.tableContainer {
+  margin-top: 50px;
+}
+
+.MuiTableCell-head {
+  background-color: #0d0d0d;
+  color: #fff !important;
+}
